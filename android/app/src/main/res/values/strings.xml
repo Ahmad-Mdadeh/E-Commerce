@@ -1,0 +1,6 @@
+<resources>
+    <string name="facebook_app_id">515317200192337</string>
+    <string name="fb_login_protocol_scheme">fb515317200192337</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="app_name">astro shop</string>
+</resources>

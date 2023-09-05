@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167831851282",
+    "project_id": "astro-shop-eb648",
+    "storage_bucket": "astro-shop-eb648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167831851282:android:63a735521fee9b930e23cb",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167831851282-am2nspr9o3qbsqhppp6img5k1fdn7plg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdLI-W7EiQV3Go0vOxg9gls-8pLvrqcA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167831851282-am2nspr9o3qbsqhppp6img5k1fdn7plg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
